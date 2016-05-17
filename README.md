@@ -11,5 +11,5 @@ This program allows the user to create unordered list from the Catalina Log, Err
 
 A linked list is used in order to seperate each entry with all the information. All the logs have different configurations so each log gets broken down differently. 
 
-The *java.time.LocalDateTime* gets imported inorder to decipher the dates from each log because each of them have different date arrangements. This is used to display the information back to the user.
+The *java.time.LocalDateTime* gets imported inorder to decipher the dates from each log because of the different date arrangements. This is used to display the information back to the user.
 
